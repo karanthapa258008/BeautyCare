@@ -12,6 +12,7 @@ SECRET_KEY = 'django-insecure-c_*i=6zv8@8o5m5e33gi9pm4$uba6!%ccnljq=3*6k%soncww5
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    "V3iSir.pythonanywhere.com",
     "karanthapa12.pythonanywhere.com",
     "127.0.0.1",
     "localhost",
@@ -99,4 +100,5 @@ RAZORPAY_KEY_SECRET = 'Tjp3M10t2jIKQSuqIePHzI31'
 
 CSRF_TRUSTED_ORIGINS = [
     "https://karanthapa12.pythonanywhere.com",
+    "https://V3iSir.pythonanywhere.com",
 ]
